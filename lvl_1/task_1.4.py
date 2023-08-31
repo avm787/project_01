@@ -45,13 +45,6 @@ for k1, v1 in titles.items():
     
 
 
-# for k1, v1 in titles.items():
-#     # print(store.get(v1))
-#     # print(titles.get(k1))
-#     print(titles.keys(i))
-#     for i in range(len(store.get(v1))):
-#         # print(store.get(v1)[i].get('quantity') * store.get(v1)[i].get('price'))
-#         sm += store.get(v1)[i].get('quantity') * store.get(v1)[i].get('price')
        
 
 
